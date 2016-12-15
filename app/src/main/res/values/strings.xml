@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Приложение</string>
+    <string name="btn_name">Первая кнопка</string>
+    <string name="lbl_text">Привет всем</string>
+</resources>
